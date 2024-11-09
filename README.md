@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me through instagram
 - 😄 Pronouns: ...
-- ⚡ Fun fact: why does nobita go to school by learning even when he is having anywhere door..?
+- ⚡ Fun fact: why does nobita go to school by running even when he is having anywhere door..?
 
 <!---
 Apur-Apasna05/Apur-Apasna05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
